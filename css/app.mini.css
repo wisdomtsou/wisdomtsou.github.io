@@ -1,0 +1,83 @@
+.label {
+    display: inline;
+	height: 40px;
+    width: 70px;
+    padding: .4em .1em .3em;
+    font-size: 130%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    float: right !important;
+    margin-top: -2em;
+    margin-right: 2.4em;
+  }
+
+.pub-badge {
+    height: 65px;
+    width: 65px;
+    padding: 1.2em .7em .3em;
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    background: darkgreen;
+    font-weight: bold;
+    font-size:100%;
+    color:white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 10px rgba(0, 0, 0, 0.12);
+    float: right !important;
+    margin-right: 3.3em;
+
+}
+
+.pub-badge::before {
+    display:flex;
+    justify-content:center;
+    vertical-align: middle;
+    align-items:center;
+}
+
+.bgm-blue {
+background-color: #2196f3 !important;
+}
+
+.bgm-purple {
+background-color: #9c27b0 !important;
+}
+
+.bgm-orange {
+background-color: #ff9800  !important;
+}
+
+.bgm-red {
+background-color: #f44336 !important;
+}
+
+.flex-container {
+ display:flex; 
+ flex-direction: row;
+ padding: 15px;
+}
+
+.flex-item-left {
+    display:flex;
+    flex: 0 0 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.flex-item-right {
+    display:flex;
+    flex: 1 1 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+	text-align:justify;
+}

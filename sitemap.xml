@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wisdomtsou.github.io/misc/</loc>
+    <lastmod>2022-01-25T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/research/</loc>
+    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/</loc>
+    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/award/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/grant/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/group/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/publication/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/service/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/teaching/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/categories/</loc>
+  </url><url>
+    <loc>https://wisdomtsou.github.io/tags/</loc>
+  </url>
+</urlset>
