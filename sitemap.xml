@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wisdomtsou.github.io/misc/</loc>
+    <loc>http://example.org/misc/</loc>
     <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisdomtsou.github.io/research/</loc>
+    <loc>http://example.org/research/</loc>
     <lastmod>2022-01-24T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisdomtsou.github.io/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2022-01-24T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisdomtsou.github.io/award/</loc>
+    <loc>http://example.org/award/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://wisdomtsou.github.io/grant/</loc>
+    <loc>http://example.org/grant/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://wisdomtsou.github.io/group/</loc>
+    <loc>http://example.org/group/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://wisdomtsou.github.io/publication/</loc>
+    <loc>http://example.org/publication/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://wisdomtsou.github.io/service/</loc>
+    <loc>http://example.org/service/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://wisdomtsou.github.io/teaching/</loc>
+    <loc>http://example.org/teaching/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://wisdomtsou.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://wisdomtsou.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>

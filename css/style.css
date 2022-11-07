@@ -67,7 +67,9 @@ body {
 
 .wrapper {
 	padding: 25px;
-	background: #fff;
+	background: #ffff;
+	padding-left: 31px;
+	padding-right: 31px;
 }
 
 .flex {
@@ -593,6 +595,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .main__content {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
+#	padding-left: 20px;
+#	padding-right: 20px;
 }
 
 .meta {
