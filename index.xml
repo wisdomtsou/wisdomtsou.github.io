@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basic on YONGPAN ZOU</title>
-    <link>http://example.org/</link>
+    <link>https://wisdomtsou.github.io/</link>
     <description>Recent content in Basic on YONGPAN ZOU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://wisdomtsou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/misc/</link>
+      <link>https://wisdomtsou.github.io/misc/</link>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>http://example.org/misc/</guid>
+      <guid>https://wisdomtsou.github.io/misc/</guid>
       <description>TPC Member for:
 UIC 2020
 MSN 2020
@@ -40,28 +40,28 @@ Program chair of CPD 2022</description>
     
     <item>
       <title></title>
-      <link>http://example.org/research/</link>
+      <link>https://wisdomtsou.github.io/research/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>http://example.org/research/</guid>
+      <guid>https://wisdomtsou.github.io/research/</guid>
       <description>[Acoustic sensing; Gesture] Recently, wearable devices have become increasingly popular in our lives because of their neat features and stylish appearance. However, their tiny sizes bring about new challenges to human-device interaction such as texts input. Although some novel methods have been put forward, they possess different defects and are not applicable to deal with the problem. As a result, we propose an acoustic-based texts-entry system, i.e., EchoWrite, by which texts can be entered with a finger writing in the air without wearing any additional device.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/award/</link>
+      <link>https://wisdomtsou.github.io/award/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/award/</guid>
+      <guid>https://wisdomtsou.github.io/award/</guid>
       <description>Academic 深圳市自然科学奖一等奖，基于泛在射频信号的无设备感知理论与方法研究，深圳市科技创新委员会，排名第2/5，2022.11。 第二十三届中国专利优秀奖，一种干扰最小化的移动组网方法与系统，国家知识产权局，排名第4/4，2022.04。 第八届广东省专利优秀奖，一种干扰最小化的移动组网方法与系统，广东省市场监督管理局，排名第4/4，2021.08。 广东省计算机学会优秀论文一等奖, GRfid: A Device-free Gesture Recognition System Using COTS RFID Device，排名第1/6，2019.12。 深圳市南山区C类领航人才，深圳市南山区人力资源局，独立获奖，2019.03。 深圳市海外高层次C类人才，深圳市人力资源和社会保障局，独立获奖，2018.02。 Feature Article of IEEE TMC，We can hear you with WiFi!，IEEE Transactions on Mobile Computing，排名第2/5，2016.11。 Best Paper Award，SmartSensing: Sensing Through Walls you’re your Smartphone!，IEEE MASS，排名第1/4，2014.10。 Teaching 2021年全国大学生物联网设计竞赛优秀指导教师奖，2021.08。 广东省计算机设计大赛优秀指导教师，广东省教育厅，2021.08。 深圳大学第十届青年教师讲课竞赛校级二等奖，《计算机网络》，深圳大学，2021.06。 深圳大学2018-2019学年教学单项奖优秀本科教师奖，《计算机网络》、《无线传感器网络》，2020.06。 深圳大学第九届青年教师讲课竞赛校级三等奖，《计算机网络》，深圳大学，2019.07。 深圳大学青年教师教学能力培养薪火计划项目结题“优秀”，深圳大学，2019.12。 第15届“挑战杯”广东大学生课外学术科技作品竞赛优秀指导教师奖，共青团广东省委员会、广东省教育厅、广东省科协等，2019.05。 2018年“广东省大学生创新创业训练计划项目”优秀指导教师，深圳大学，2019.04。 深圳大学2018届百篇优秀本科毕业论文（设计）指导教师，深圳大学，2018.06。 全国高校物联网应用创新大赛优秀指导教师奖，2018.05。 2020年度深圳大学“青年之友”，共青团深圳大学委员会，2021.07。 深圳大学优秀实习指导教师，深圳大学，2019.12。 深圳大学腾讯益友优秀班主任，深圳大学，2019.12。 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/grant/</link>
+      <link>https://wisdomtsou.github.io/grant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/grant/</guid>
+      <guid>https://wisdomtsou.github.io/grant/</guid>
       <description>National PI, National Natural Science Foundation of China (General Program) (国家自然科学基金面上项目)
 Research on Key Technology of User Context Mining Based on Acoustic Sensing with Smart Devices,
 NSF No.62172286, 2022.01-2025.12, 590K CNY.
@@ -73,19 +73,19 @@ Research on Affective Computing Based on Ubiquitous Smart Devices</description>
     
     <item>
       <title></title>
-      <link>http://example.org/group/</link>
+      <link>https://wisdomtsou.github.io/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/group/</guid>
+      <guid>https://wisdomtsou.github.io/group/</guid>
       <description>About US Recently, wearable devices have become increasingly popular in our lives because of their neat features and stylish appearance. However, their tiny sizes bring about new challenges to human-device interaction such as texts input. Although some novel methods have been put forward, they possess different defects and are not applicable to deal with the problem. As a result, we propose an acoustic-based texts-entry system, i.e., EchoWrite, by which texts can be entered with a finger writing in the air without wearing any additional device.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/publication/</link>
+      <link>https://wisdomtsou.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/</guid>
+      <guid>https://wisdomtsou.github.io/publication/</guid>
       <description>* indicates the Corresponding Author; _ indicates students under my supervision; AR is short for Acceptance Rate
 The following only lists selective publications. For the full list of my publications, please refer to [Google Scholar]
 Conference [PerCom&#39;20] SilentSign: Device-free Handwritten Signature Verification through Acoustic Sensing
@@ -95,19 +95,19 @@ in Proceedings of the 18th IEEE PerCom, pp.1-9, Austin, Texas, USA, March 2020. 
     
     <item>
       <title></title>
-      <link>http://example.org/service/</link>
+      <link>https://wisdomtsou.github.io/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/service/</guid>
+      <guid>https://wisdomtsou.github.io/service/</guid>
       <description>Membership Member of The Institute of Electrical and Electronics Engineers (IEEE), since 2015 Member of The Association for Computing Machinery (ACM), since 2018 Member of ACM SIGMOBILE, sicne 2022 Member of China Computer Federation (CCF), since 2020 Executive member of Ubiquitous Computing Technical Committee of CCF, since 2022 (CCF普适计算专委会执行委员) Executive member of Human-computer Interaction Technical Committee of CCF, since 2022 (CCF人机交互专委会执行委员) Chairing Publication chair of IEEE ICPADS 2017、IEEE ICPADS 2018、IEEE ICPADS 2019 Program vice chair of PCC 2019 Local Chair of EAI ICECI 2021 Program chair of ACM CPD 2022 (in conjunction with ACM Ubicomp 2022) TPC IEEE UIC 2019、IEEE UIC 2020、IEEE UIC 2022、IEEE MSN 2020、IEEE HPCC 2020 IEEE Globecom 2017、IEEE Globecom 2018 IEEE ICPADS 2017 Reviewer ACM IMWUT、ACM Ubicomp 2016 IEEE TMC、IEEE COMMAG ACM/IEEE ToN IEEE ICPADS 2016 IEEE Globecom 2017 Talk BiLock: User Authentication via Dental Occlusion Biometrics, ACM Ubicomp, 2018.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/teaching/</link>
+      <link>https://wisdomtsou.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/teaching/</guid>
+      <guid>https://wisdomtsou.github.io/teaching/</guid>
       <description>Course 《Computer Networks》: UG course, Spring semester of the year of 2018, 2019, 2020, 2021, and 2022.
 Prerequisites: 《Introduction to Computers》《Computer Systems》
 Textbook: 《Computer Network and Next-generation Internet》(Laizhong Cui)
